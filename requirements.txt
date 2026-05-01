@@ -1,0 +1,11 @@
+numpy==1.24.3
+opencv-python==4.8.0.74
+opencv-contrib-python==4.8.0.74
+pyttsx3==2.90
+tensorflow-macos==2.13.0
+keras==2.13.1
+cvzone==1.6.1
+mediapipe==0.10.14
+pyenchant==3.2.2
+Pillow==10.1.0
+typing-extensions>=3.6.6,<4.6.0
